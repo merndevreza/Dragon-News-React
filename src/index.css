@@ -1,0 +1,16 @@
+/*Google font -  Poppins */
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800&display=swap");
+
+/*Custom font - OLD English Text MT */
+@font-face {
+  font-family: old-english-text-mt;
+  src: url(../src/assets/fonts/OLD.ttf);
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.old-mt{
+  font-family: old-english-text-mt;
+}
