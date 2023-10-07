@@ -40,6 +40,7 @@ const RightSidebar = () => {
         <img className="w-full mb-5" src={qZone2} alt="" />
         <img className="w-full " src={qZone3} alt="" />
       </div>
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo veritatis repudiandae quo temporibus. Perspiciatis, animi cupiditate deserunt soluta vitae officiis.</p>
     </div>
   );
 };
